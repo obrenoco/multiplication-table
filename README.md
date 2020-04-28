@@ -1,4 +1,4 @@
-# age selector is my JS exercise #3
+# multiplication-table is my JS exercise #3
 
 https://obrenoco.github.io/multiplication-table/
 
